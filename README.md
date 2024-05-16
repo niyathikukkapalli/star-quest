@@ -1,2 +1,2 @@
-# star-quest
-# This is my files of all the Python games that I created! 
+
+## These are some Python & Java Script games I've created.
